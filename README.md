@@ -1,3 +1,9 @@
 # Future Ordering Frontend Extensibility
 
-Javascript examples to use with Future Ordering's white label apps.
+Javascript plugin example to use with Future Ordering's white label apps.
+
+Includes:
+- Start-bottom component
+- Page component
+- Sidebar-basket component
+- Transform component
